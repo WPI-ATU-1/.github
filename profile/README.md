@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcome WPI ATU-1 Repository
 
 <!--
 
